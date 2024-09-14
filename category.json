@@ -1,0 +1,16 @@
+{
+    "category": [
+      {
+        "id": "1",
+        "model": "iPhone"
+      },
+      {
+        "id": "2",
+        "model": "Samsung"
+      },
+      {
+        "id": "3",
+        "model": "Redmi"
+      }
+    ]
+  }
