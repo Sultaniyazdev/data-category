@@ -11,6 +11,18 @@
       {
         "id": "3",
         "model": "Redmi"
+      },
+      {
+        "id": "4",
+        "model": "test1"
+      },
+      {
+        "id": "5",
+        "model": "test2"
+      },
+      {
+        "id": "6",
+        "model": "test3"
       }
     ]
 }
